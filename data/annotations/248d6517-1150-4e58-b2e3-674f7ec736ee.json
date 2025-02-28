@@ -546,6 +546,22 @@
         }
       ],
       "uuid": "f294d789-2e49-4a62-88fa-7f991d54c277"
+    },
+    {
+      "start_time": 0,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wonder if this goes at the start or the end?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c89a404c-928d-45e6-b387-71c4ec036cd8"
     }
   ],
   "set": "Default",
