@@ -1,21 +1,61 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "Jlubrick",
+    "is_private": false,
+    "title": "Testy time ",
+    "description": "I just wanna see how this works. ",
+    "language": "en",
+    "slug": "tester",
+    "creator": "Jlubrick",
+    "authors": "Me ",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Performance",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Transcription",
+          "color": "#ADFEFF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Volume",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Title",
+          "category": "Transcription"
+        },
+        {
+          "tag": "Poem",
+          "category": "Transcription"
+        }
+      ]
+    },
+    "created_at": "2025-02-28T20:08:05.905Z",
+    "updated_at": "2025-02-28T20:08:05.905Z"
   }
 }
