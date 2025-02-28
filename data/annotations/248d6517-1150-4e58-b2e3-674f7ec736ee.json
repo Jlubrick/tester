@@ -505,6 +505,47 @@
         }
       ],
       "uuid": "686571ba-dded-418d-9b2c-afa625642028"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Testing annotations, I wonder if this adds automatically to the front, and if I download this will it come first in the spreadsheet or will it follow at the end despite the 0-0 start time "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Title",
+          "category": "Transcription"
+        },
+        {
+          "tag": "Poem",
+          "category": "Transcription"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Volume",
+          "category": "Performance"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "f294d789-2e49-4a62-88fa-7f991d54c277"
     }
   ],
   "set": "Default",
